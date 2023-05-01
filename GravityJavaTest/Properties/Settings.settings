@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GravityJavaTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1175256991</Value>
+    </Setting>
+    <Setting Name="endpointURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.emergepay-sandbox.chargeitpro.com/virtualterminal/v1</Value>
+    </Setting>
+    <Setting Name="assetsCheckoutURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://assets.emergepay-sandbox.chargeitpro.com//cip-hosted-fields.js</Value>
+    </Setting>
+    <Setting Name="startTransactionToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aWQiOjkzMywib2lkIjoxMTc1MjU2OTkxLCJ0b2tlbl91c2UiOiJvcnQiLCJybmQiOjE5OTMxMTM2NTAuOTE1NTE1LCJncm91cHMiOlsiT3JnQVBJVXNlcnMiXSwiaWF0IjoxNjgwODk2MDczfQ.wiscESppOHcEjDjkzByJF6qtgVLHIdGILTewnPo44pk</Value>
+    </Setting>
+    <Setting Name="processTransactionToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(none)</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
